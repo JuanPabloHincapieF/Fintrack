@@ -109,3 +109,4 @@ Panel web interno (back-office) para gestión técnica y operativa de la aplicac
 ---
 
 ## Diseño — Wireframes
+<img width="1845" height="1028" alt="image" src="https://github.com/user-attachments/assets/20360a15-a17d-4732-a40e-e38cf5cb86d5" />
